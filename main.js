@@ -4,22 +4,22 @@ function banner1(){
     document.getElementById('99').src='img/banner1.jpg';
     
     
-    setTimeout("banner2()", 3000)
-    document.getElementById("88").href="https://www.google.com/search?q=fun%C3%A7%C3%A3o+que+percorre+todo+um+array+em+loop&oq=fun%C3%A7%C3%A3o+que+percorre+todo+um+array+em+loop&aqs=chrome..69i57j33.11548j0j4&sourceid=chrome&ie=UTF-8";
+    setTimeout("banner2()", 2000)
+    document.getElementById("88").href="https://www.digitalhouse.com/br/?gclid=CjwKCAjw97P5BRBQEiwAGflV6ebF_GDoW9aotzwTBqLZHYfIsIxwIsJ2iaALy6YC26HPwgEp65xQkhoCvSIQAvD_BwE";
 }
 
 function banner2(){
         document.getElementById('99').src='img/banner2.jpg';
         
-        setTimeout("banner3()", 3000)
-        document.getElementById("88").href="https://app.slack.com/client/T017ANARE1X/C016HBJ79U7";
+        setTimeout("banner3()", 2000)
+        document.getElementById("88").href="https://www.santander.com.br/";
 }
 
 function banner3(){
     document.getElementById('99').src='img/banner3.jpg';
     
-    setTimeout("banner1()", 3000)
-    document.getElementById("88").href="https://outlook.live.com/mail/inbox/id/AQQkADAwATY0MDABLThjNmUtNDgwMy0wMAItMDAKABAAFbPiMSoEaEKl%2F9Q1oki2gw%3D%3D";
+    setTimeout("banner1()", 2000)
+    document.getElementById("88").href="https://www.java.com/pt_BR/download/";
     }
     
 
